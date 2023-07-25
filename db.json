@@ -19,9 +19,13 @@
       "name": "Rohit",
       "salary": 500000
     },  {
-      "id": 2,
+      "id": 5,
       "name": "Dhiv",
       "salary": 30000
+    },{
+      "id": 6,
+      "name": "Devaraj",
+      "salary": 3000
     }
   ]
 
