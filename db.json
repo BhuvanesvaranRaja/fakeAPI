@@ -7,20 +7,20 @@
     },
     {
       "id": 2,
-      "body": "Manikam",
+      "name": "Manikam",
       "salary": 50000
     }
     ,  {
       "id": 3,
-      "body": "Virat Kholi",
+      "name": "Virat Kholi",
       "salary": 150000
     },  {
       "id": 4,
-      "body": "Rohit",
+      "name": "Rohit",
       "salary": 500000
     },  {
       "id": 2,
-      "body": "Dhiv",
+      "name": "Dhiv",
       "salary": 30000
     }
   ]
