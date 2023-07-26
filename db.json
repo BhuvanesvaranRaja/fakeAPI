@@ -3,30 +3,401 @@
     {
       "id": 1,
       "name": "Raju",
-      "salary": 23000
+      "salary": 23000,
+      "age": 28,
+      "position": "Software Engineer",
+      "department": "IT"
     },
     {
       "id": 2,
       "name": "Manikam",
-      "salary": 50000
-    }
-    ,  {
+      "salary": 50000,
+      "age": 35,
+      "position": "Senior Analyst",
+      "department": "Finance"
+    },
+    {
       "id": 3,
       "name": "Virat Kholi",
-      "salary": 150000
-    },  {
+      "salary": 150000,
+      "age": 32,
+      "position": "Marketing Manager",
+      "department": "Marketing"
+    },
+    {
       "id": 4,
       "name": "Rohit",
-      "salary": 500000
-    },  {
+      "salary": 500000,
+      "age": 40,
+      "position": "Director",
+      "department": "Operations"
+    },
+    {
       "id": 5,
       "name": "Dhiv",
-      "salary": 30000
-    },{
+      "salary": 30000,
+      "age": 26,
+      "position": "Junior Developer",
+      "department": "IT"
+    },
+    {
       "id": 6,
       "name": "Devaraj",
-      "salary": 3000
+      "salary": 3000,
+      "age": 50,
+      "position": "Janitor",
+      "department": "Facilities"
+    },
+    {
+      "id": 7,
+      "name": "Kavitha",
+      "salary": 45000,
+      "age": 31,
+      "position": "Senior Designer",
+      "department": "Creative"
+    },
+    {
+      "id": 8,
+      "name": "Rashmi",
+      "salary": 55000,
+      "age": 36,
+      "position": "Product Manager",
+      "department": "Product"
+    },
+    {
+      "id": 9,
+      "name": "Ganesh",
+      "salary": 80000,
+      "age": 39,
+      "position": "Sales Manager",
+      "department": "Sales"
+    },
+    {
+      "id": 10,
+      "name": "Sonia",
+      "salary": 38000,
+      "age": 27,
+      "position": "HR Specialist",
+      "department": "Human Resources"
+    },  {
+      "id": 11,
+      "name": "Arun",
+      "salary": 42000,
+      "age": 29,
+      "position": "Business Analyst",
+      "department": "Finance"
+    },
+    {
+      "id": 12,
+      "name": "Latha",
+      "salary": 61000,
+      "age": 34,
+      "position": "Senior Software Engineer",
+      "department": "IT"
+    },
+    {
+      "id": 13,
+      "name": "Vikram",
+      "salary": 78000,
+      "age": 41,
+      "position": "Project Manager",
+      "department": "Operations"
+    },
+    {
+      "id": 14,
+      "name": "Priya",
+      "salary": 48000,
+      "age": 31,
+      "position": "Graphic Designer",
+      "department": "Creative"
+    },
+    {
+      "id": 15,
+      "name": "Sanjay",
+      "salary": 56000,
+      "age": 35,
+      "position": "Marketing Analyst",
+      "department": "Marketing"
+    },
+    {
+      "id": 16,
+      "name": "Ayesha",
+      "salary": 34000,
+      "age": 27,
+      "position": "Junior Developer",
+      "department": "IT"
+    },
+    {
+      "id": 17,
+      "name": "Kumar",
+      "salary": 70000,
+      "age": 38,
+      "position": "Product Designer",
+      "department": "Product"
+    },
+    {
+      "id": 18,
+      "name": "Anita",
+      "salary": 48000,
+      "age": 33,
+      "position": "Sales Executive",
+      "department": "Sales"
+    },
+    {
+      "id": 19,
+      "name": "Rajesh",
+      "salary": 52000,
+      "age": 32,
+      "position": "HR Manager",
+      "department": "Human Resources"
+    },
+    {
+      "id": 20,
+      "name": "Suresh",
+      "salary": 40000,
+      "age": 29,
+      "position": "Frontend Developer",
+      "department": "IT"
+    },
+    {
+      "id": 21,
+      "name": "Divya",
+      "salary": 75000,
+      "age": 36,
+      "position": "Senior Analyst",
+      "department": "Finance"
+    },
+    {
+      "id": 22,
+      "name": "Neha",
+      "salary": 47000,
+      "age": 30,
+      "position": "Software Engineer",
+      "department": "IT"
+    },
+    {
+      "id": 23,
+      "name": "Amit",
+      "salary": 82000,
+      "age": 42,
+      "position": "Operations Manager",
+      "department": "Operations"
+    },
+    {
+      "id": 24,
+      "name": "Rani",
+      "salary": 48000,
+      "age": 31,
+      "position": "UX Designer",
+      "department": "Creative"
+    },
+    {
+      "id": 25,
+      "name": "Sandeep",
+      "salary": 59000,
+      "age": 34,
+      "position": "Marketing Manager",
+      "department": "Marketing"
+    },
+    {
+      "id": 26,
+      "name": "Anjali",
+      "salary": 37000,
+      "age": 28,
+      "position": "Junior Developer",
+      "department": "IT"
+    },
+    {
+      "id": 27,
+      "name": "Raj",
+      "salary": 69000,
+      "age": 37,
+      "position": "Product Manager",
+      "department": "Product"
+    },
+    {
+      "id": 28,
+      "name": "Saravanan",
+      "salary": 50000,
+      "age": 32,
+      "position": "Sales Manager",
+      "department": "Sales"
+    },
+    {
+      "id": 29,
+      "name": "Sangeetha",
+      "salary": 49000,
+      "age": 31,
+      "position": "HR Specialist",
+      "department": "Human Resources"
+    },
+    {
+      "id": 30,
+      "name": "Aruna",
+      "salary": 42000,
+      "age": 29,
+      "position": "Backend Developer",
+      "department": "IT"
+    },
+    {
+      "id": 31,
+      "name": "Vinod",
+      "salary": 61000,
+      "age": 34,
+      "position": "Senior Software Engineer",
+      "department": "IT"
+    },
+    {
+      "id": 32,
+      "name": "Vani",
+      "salary": 78000,
+      "age": 41,
+      "position": "Project Manager",
+      "department": "Operations"
+    },
+    {
+      "id": 33,
+      "name": "Karthik",
+      "salary": 48000,
+      "age": 31,
+      "position": "Graphic Designer",
+      "department": "Creative"
+    },
+    {
+      "id": 34,
+      "name": "Saranya",
+      "salary": 56000,
+      "age": 35,
+      "position": "Marketing Analyst",
+      "department": "Marketing"
+    },
+    {
+      "id": 35,
+      "name": "Vikraman",
+      "salary": 34000,
+      "age": 27,
+      "position": "Junior Developer",
+      "department": "IT"
+    },
+    {
+      "id": 36,
+      "name": "Krithika",
+      "salary": 70000,
+      "age": 38,
+      "position": "Product Designer",
+      "department": "Product"
+    },
+    {
+      "id": 37,
+      "name": "Hari",
+      "salary": 48000,
+      "age": 33,
+      "position": "Sales Executive",
+      "department": "Sales"
+    },
+    {
+      "id": 38,
+      "name": "Gayathri",
+      "salary": 52000,
+      "age": 32,
+      "position": "HR Manager",
+      "department": "Human Resources"
+    },
+    {
+      "id": 39,
+      "name": "Surya",
+      "salary": 40000,
+      "age": 29,
+      "position": "Frontend Developer",
+      "department": "IT"
+    },
+    {
+      "id": 40,
+      "name": "Divakar",
+      "salary": 75000,
+      "age": 36,
+      "position": "Senior Analyst",
+      "department": "Finance"
+    },
+    {
+      "id": 41,
+      "name": "Anu",
+      "salary": 47000,
+      "age": 30,
+      "position": "Software Engineer",
+      "department": "IT"
+    },
+    {
+      "id": 42,
+      "name": "Arun Kumar",
+      "salary": 82000,
+      "age": 42,
+      "position": "Operations Manager",
+      "department": "Operations"
+    },
+    {
+      "id": 43,
+      "name": "Sangeeth",
+      "salary": 48000,
+      "age": 31,
+      "position": "UX Designer",
+      "department": "Creative"
+    },
+    {
+      "id": 44,
+      "name": "Sathish",
+      "salary": 59000,
+      "age": 34,
+      "position": "Marketing Manager",
+      "department": "Marketing"
+    },
+    {
+      "id": 45,
+      "name": "Meera",
+      "salary": 37000,
+      "age": 28,
+      "position": "Junior Developer",
+      "department": "IT"
+    },
+    {
+      "id": 46,
+      "name": "Prakash",
+      "salary": 69000,
+      "age": 37,
+      "position": "Product Manager",
+      "department": "Product"
+    },
+    {
+      "id": 47,
+      "name": "Janani",
+      "salary": 50000,
+      "age": 32,
+      "position": "Sales Manager",
+      "department": "Sales"
+    },
+    {
+      "id": 48,
+      "name": "Vishal",
+      "salary": 49000,
+      "age": 31,
+      "position": "HR Specialist",
+      "department": "Human Resources"
+    },
+    {
+      "id": 49,
+      "name": "Karthika",
+      "salary": 42000,
+      "age": 29,
+      "position": "Backend Developer",
+      "department": "IT"
+    },
+    {
+      "id": 50,
+      "name": "Vinay",
+      "salary": 61000,
+      "age": 34,
+      "position": "Senior Software Engineer",
+      "department": "IT"
     }
   ]
-
 }
