@@ -261,6 +261,14 @@
       "Date of Joining": "19/03/2015",
       "Overall experience": 12,
       "salary": 55000
+    },  {
+      "Emp_id": 1,
+      "Emp_name": "Kholi",
+      "Age": 34,
+      "designation": "CEO",
+      "Date of Joining": "01/03/2010",
+      "Overall experience": 25,
+      "salary": 155500
     }
   ]
 }
