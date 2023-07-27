@@ -18,60 +18,7 @@
       "Overall experience": 9,
       "salary": 50000
     },
-    {
-      "Emp_id": 185,
-      "Emp_name": "Amit",
-      "Age": 25,
-      "designation": "Sales Representative",
-      "Date of Joining": "10/07/2020",
-      "Overall experience": 2,
-      "salary": 27000
-    },
-    {
-      "Emp_id": 186,
-      "Emp_name": "Sara",
-      "Age": 33,
-      "designation": "Marketing Specialist",
-      "Date of Joining": "3/04/2016",
-      "Overall experience": 7,
-      "salary": 45000
-    },
-    {
-      "Emp_id": 187,
-      "Emp_name": "Vikram",
-      "Age": 29,
-      "designation": "Financial Analyst",
-      "Date of Joining": "15/09/2019",
-      "Overall experience": 5,
-      "salary": 38000
-    },
-    {
-      "Emp_id": 188,
-      "Emp_name": "Anu",
-      "Age": 27,
-      "designation": "Frontend Developer",
-      "Date of Joining": "8/03/2020",
-      "Overall experience": 4,
-      "salary": 32000
-    },
-    {
-      "Emp_id": 189,
-      "Emp_name": "Rahul",
-      "Age": 34,
-      "designation": "Mechanical Engineer",
-      "Date of Joining": "12/11/2015",
-      "Overall experience": 10,
-      "salary": 52000
-    },
-    {
-      "Emp_id": 190,
-      "Emp_name": "Anita",
-      "Age": 26,
-      "designation": "Backend Developer",
-      "Date of Joining": "9/06/2020",
-      "Overall experience": 3,
-      "salary": 29000
-    },
+   
     {
       "Emp_id": 191,
       "Emp_name": "Rajesh",
