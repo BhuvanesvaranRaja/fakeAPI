@@ -4,8 +4,7 @@
       "Emp_id": 183,
       "Emp_name": "Raju",
       "Age": 28,
-      "department": "IT",
-      "position": "Software Engineer",
+      "designation": "Software Engineer",
       "Date of Joining": "1/01/2021",
       "Overall experience": 3,
       "salary": 23000
@@ -14,8 +13,7 @@
       "Emp_id": 184,
       "Emp_name": "Priya",
       "Age": 31,
-      "department": "HR",
-      "position": "HR Manager",
+      "designation": "HR Manager",
       "Date of Joining": "5/12/2018",
       "Overall experience": 9,
       "salary": 50000
@@ -24,8 +22,7 @@
       "Emp_id": 185,
       "Emp_name": "Amit",
       "Age": 25,
-      "department": "Sales",
-      "position": "Sales Representative",
+      "designation": "Sales Representative",
       "Date of Joining": "10/07/2020",
       "Overall experience": 2,
       "salary": 27000
@@ -34,8 +31,7 @@
       "Emp_id": 186,
       "Emp_name": "Sara",
       "Age": 33,
-      "department": "Marketing",
-      "position": "Marketing Specialist",
+      "designation": "Marketing Specialist",
       "Date of Joining": "3/04/2016",
       "Overall experience": 7,
       "salary": 45000
@@ -44,8 +40,7 @@
       "Emp_id": 187,
       "Emp_name": "Vikram",
       "Age": 29,
-      "department": "Finance",
-      "position": "Financial Analyst",
+      "designation": "Financial Analyst",
       "Date of Joining": "15/09/2019",
       "Overall experience": 5,
       "salary": 38000
@@ -54,8 +49,7 @@
       "Emp_id": 188,
       "Emp_name": "Anu",
       "Age": 27,
-      "department": "IT",
-      "position": "Frontend Developer",
+      "designation": "Frontend Developer",
       "Date of Joining": "8/03/2020",
       "Overall experience": 4,
       "salary": 32000
@@ -64,8 +58,7 @@
       "Emp_id": 189,
       "Emp_name": "Rahul",
       "Age": 34,
-      "department": "Engineering",
-      "position": "Mechanical Engineer",
+      "designation": "Mechanical Engineer",
       "Date of Joining": "12/11/2015",
       "Overall experience": 10,
       "salary": 52000
@@ -74,8 +67,7 @@
       "Emp_id": 190,
       "Emp_name": "Anita",
       "Age": 26,
-      "department": "IT",
-      "position": "Backend Developer",
+      "designation": "Backend Developer",
       "Date of Joining": "9/06/2020",
       "Overall experience": 3,
       "salary": 29000
@@ -84,8 +76,7 @@
       "Emp_id": 191,
       "Emp_name": "Rajesh",
       "Age": 30,
-      "department": "HR",
-      "position": "Recruiter",
+      "designation": "Recruiter",
       "Date of Joining": "7/08/2018",
       "Overall experience": 6,
       "salary": 40000
@@ -94,8 +85,7 @@
       "Emp_id": 192,
       "Emp_name": "Neha",
       "Age": 28,
-      "department": "Sales",
-      "position": "Sales Manager",
+      "designation": "Sales Manager",
       "Date of Joining": "20/02/2019",
       "Overall experience": 5,
       "salary": 42000
@@ -104,8 +94,7 @@
       "Emp_id": 193,
       "Emp_name": "Vishal",
       "Age": 29,
-      "department": "Marketing",
-      "position": "Content Writer",
+      "designation": "Content Writer",
       "Date of Joining": "18/06/2017",
       "Overall experience": 8,
       "salary": 37000
@@ -114,8 +103,7 @@
       "Emp_id": 194,
       "Emp_name": "Sanjay",
       "Age": 31,
-      "department": "Finance",
-      "position": "Accountant",
+      "designation": "Accountant",
       "Date of Joining": "6/11/2018",
       "Overall experience": 7,
       "salary": 36000
@@ -124,8 +112,7 @@
       "Emp_id": 195,
       "Emp_name": "Meena",
       "Age": 27,
-      "department": "IT",
-      "position": "Database Administrator",
+      "designation": "Database Administrator",
       "Date of Joining": "11/10/2021",
       "Overall experience": 3,
       "salary": 28000
@@ -134,8 +121,7 @@
       "Emp_id": 196,
       "Emp_name": "Kiran",
       "Age": 32,
-      "department": "Engineering",
-      "position": "Electrical Engineer",
+      "designation": "Electrical Engineer",
       "Date of Joining": "2/05/2016",
       "Overall experience": 11,
       "salary": 53000
@@ -144,8 +130,7 @@
       "Emp_id": 197,
       "Emp_name": "Kavita",
       "Age": 29,
-      "department": "IT",
-      "position": "Software Engineer",
+      "designation": "Software Engineer",
       "Date of Joining": "14/08/2019",
       "Overall experience": 6,
       "salary": 42000
@@ -154,8 +139,7 @@
       "Emp_id": 198,
       "Emp_name": "Rakesh",
       "Age": 30,
-      "department": "HR",
-      "position": "Training Manager",
+      "designation": "Training Manager",
       "Date of Joining": "10/03/2018",
       "Overall experience": 8,
       "salary": 48000
@@ -164,8 +148,7 @@
       "Emp_id": 199,
       "Emp_name": "Pooja",
       "Age": 26,
-      "department": "Sales",
-      "position": "Marketing Executive",
+      "designation": "Marketing Executive",
       "Date of Joining": "9/05/2020",
       "Overall experience": 3,
       "salary": 30000
@@ -174,8 +157,7 @@
       "Emp_id": 200,
       "Emp_name": "Aryan",
       "Age": 28,
-      "department": "Marketing",
-      "position": "Social Media Manager",
+      "designation": "Social Media Manager",
       "Date of Joining": "22/12/2017",
       "Overall experience": 6,
       "salary": 40000
@@ -184,8 +166,7 @@
       "Emp_id": 201,
       "Emp_name": "Manish",
       "Age": 29,
-      "department": "Finance",
-      "position": "Financial Controller",
+      "designation": "Financial Controller",
       "Date of Joining": "5/09/2018",
       "Overall experience": 7,
       "salary": 45000
@@ -194,8 +175,7 @@
       "Emp_id": 202,
       "Emp_name": "Shreya",
       "Age": 27,
-      "department": "IT",
-      "position": "System Administrator",
+      "designation": "System Administrator",
       "Date of Joining": "12/06/2020",
       "Overall experience": 4,
       "salary": 32000
@@ -204,8 +184,7 @@
       "Emp_id": 203,
       "Emp_name": "Harish",
       "Age": 34,
-      "department": "Engineering",
-      "position": "Civil Engineer",
+      "designation": "Civil Engineer",
       "Date of Joining": "19/03/2015",
       "Overall experience": 12,
       "salary": 55000
@@ -214,8 +193,7 @@
       "Emp_id": 204,
       "Emp_name": "Anjali",
       "Age": 26,
-      "department": "IT",
-      "position": "UI/UX Designer",
+      "designation": "UI/UX Designer",
       "Date of Joining": "18/09/2021",
       "Overall experience": 3,
       "salary": 30000
@@ -224,8 +202,7 @@
       "Emp_id": 205,
       "Emp_name": "Rahul",
       "Age": 30,
-      "department": "HR",
-      "position": "Compensation Analyst",
+      "designation": "Compensation Analyst",
       "Date of Joining": "17/02/2018",
       "Overall experience": 8,
       "salary": 48000
@@ -234,8 +211,7 @@
       "Emp_id": 206,
       "Emp_name": "Nisha",
       "Age": 28,
-      "department": "Sales",
-      "position": "Sales Executive",
+      "designation": "Sales Executive",
       "Date of Joining": "11/04/2019",
       "Overall experience": 4,
       "salary": 32000
@@ -244,8 +220,7 @@
       "Emp_id": 207,
       "Emp_name": "Amit",
       "Age": 29,
-      "department": "Marketing",
-      "position": "SEO Specialist",
+      "designation": "SEO Specialist",
       "Date of Joining": "26/08/2017",
       "Overall experience": 6,
       "salary": 41000
@@ -254,8 +229,7 @@
       "Emp_id": 208,
       "Emp_name": "Sandeep",
       "Age": 31,
-      "department": "Finance",
-      "position": "Tax Analyst",
+      "designation": "Tax Analyst",
       "Date of Joining": "20/11/2018",
       "Overall experience": 7,
       "salary": 39000
@@ -264,8 +238,7 @@
       "Emp_id": 209,
       "Emp_name": "Shikha",
       "Age": 27,
-      "department": "IT",
-      "position": "Database Administrator",
+      "designation": "Database Administrator",
       "Date of Joining": "15/10/2021",
       "Overall experience": 3,
       "salary": 28000
@@ -274,8 +247,7 @@
       "Emp_id": 210,
       "Emp_name": "Amit",
       "Age": 32,
-      "department": "Engineering",
-      "position": "Software Engineer",
+      "designation": "Software Engineer",
       "Date of Joining": "28/05/2016",
       "Overall experience": 10,
       "salary": 49000
@@ -284,8 +256,7 @@
       "Emp_id": 211,
       "Emp_name": "Riya",
       "Age": 29,
-      "department": "IT",
-      "position": "Backend Developer",
+      "designation": "Backend Developer",
       "Date of Joining": "22/08/2019",
       "Overall experience": 6,
       "salary": 43000
@@ -294,8 +265,7 @@
       "Emp_id": 212,
       "Emp_name": "Vivek",
       "Age": 30,
-      "department": "HR",
-      "position": "HR Coordinator",
+      "designation": "HR Coordinator",
       "Date of Joining": "20/02/2018",
       "Overall experience": 8,
       "salary": 47000
@@ -304,8 +274,7 @@
       "Emp_id": 213,
       "Emp_name": "Divya",
       "Age": 26,
-      "department": "Sales",
-      "position": "Business Development Manager",
+      "designation": "Business Development Manager",
       "Date of Joining": "9/05/2020",
       "Overall experience": 4,
       "salary": 34000
@@ -314,8 +283,7 @@
       "Emp_id": 214,
       "Emp_name": "Varun",
       "Age": 28,
-      "department": "Marketing",
-      "position": "Digital Marketing Manager",
+      "designation": "Digital Marketing Manager",
       "Date of Joining": "21/12/2017",
       "Overall experience": 6,
       "salary": 42000
@@ -324,8 +292,7 @@
       "Emp_id": 215,
       "Emp_name": "Alisha",
       "Age": 29,
-      "department": "Finance",
-      "position": "Accounts Payable Specialist",
+      "designation": "Accounts Payable Specialist",
       "Date of Joining": "25/09/2018",
       "Overall experience": 7,
       "salary": 41000
@@ -334,8 +301,7 @@
       "Emp_id": 216,
       "Emp_name": "Raj",
       "Age": 27,
-      "department": "IT",
-      "position": "System Administrator",
+      "designation": "System Administrator",
       "Date of Joining": "11/06/2020",
       "Overall experience": 4,
       "salary": 33000
@@ -344,8 +310,7 @@
       "Emp_id": 217,
       "Emp_name": "Ishaan",
       "Age": 34,
-      "department": "Engineering",
-      "position": "Electrical Engineer",
+      "designation": "Electrical Engineer",
       "Date of Joining": "19/03/2015",
       "Overall experience": 12,
       "salary": 55000
@@ -354,8 +319,7 @@
       "Emp_id": 218,
       "Emp_name": "Pallavi",
       "Age": 26,
-      "department": "IT",
-      "position": "UI/UX Designer",
+      "designation": "UI/UX Designer",
       "Date of Joining": "28/09/2021",
       "Overall experience": 3,
       "salary": 31000
@@ -364,8 +328,7 @@
       "Emp_id": 219,
       "Emp_name": "Rahul",
       "Age": 30,
-      "department": "HR",
-      "position": "Compensation Analyst",
+      "designation": "Compensation Analyst",
       "Date of Joining": "27/02/2018",
       "Overall experience": 8,
       "salary": 48000
@@ -374,8 +337,7 @@
       "Emp_id": 220,
       "Emp_name": "Neha",
       "Age": 28,
-      "department": "Sales",
-      "position": "Sales Executive",
+      "designation": "Sales Executive",
       "Date of Joining": "21/04/2019",
       "Overall experience": 4,
       "salary": 32000
@@ -384,8 +346,7 @@
       "Emp_id": 221,
       "Emp_name": "Amit",
       "Age": 29,
-      "department": "Marketing",
-      "position": "SEO Specialist",
+      "designation": "SEO Specialist",
       "Date of Joining": "26/08/2017",
       "Overall experience": 6,
       "salary": 41000
@@ -394,8 +355,7 @@
       "Emp_id": 222,
       "Emp_name": "Sandeep",
       "Age": 31,
-      "department": "Finance",
-      "position": "Tax Analyst",
+      "designation": "Tax Analyst",
       "Date of Joining": "20/11/2018",
       "Overall experience": 7,
       "salary": 39000
@@ -404,8 +364,7 @@
       "Emp_id": 223,
       "Emp_name": "Shikha",
       "Age": 27,
-      "department": "IT",
-      "position": "Database Administrator",
+      "designation": "Database Administrator",
       "Date of Joining": "15/10/2021",
       "Overall experience": 3,
       "salary": 28000
@@ -414,8 +373,7 @@
       "Emp_id": 224,
       "Emp_name": "Amit",
       "Age": 32,
-      "department": "Engineering",
-      "position": "Software Engineer",
+      "designation": "Software Engineer",
       "Date of Joining": "28/05/2016",
       "Overall experience": 10,
       "salary": 49000
@@ -424,8 +382,7 @@
       "Emp_id": 225,
       "Emp_name": "Riya",
       "Age": 29,
-      "department": "IT",
-      "position": "Backend Developer",
+      "designation": "Backend Developer",
       "Date of Joining": "22/08/2019",
       "Overall experience": 6,
       "salary": 43000
