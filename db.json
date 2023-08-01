@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "Emp_id": 183,
+      "id": 1,
       "Emp_name": "Raju",
       "Age": 28,
       "designation": "Software Engineer",
@@ -10,7 +10,7 @@
       "salary": 23000
     },
     {
-      "Emp_id": 184,
+      "id": 2,
       "Emp_name": "Priya",
       "Age": 31,
       "designation": "HR Manager",
@@ -18,9 +18,8 @@
       "Overall experience": 9,
       "salary": 50000
     },
-   
     {
-      "Emp_id": 191,
+      "id": 3,
       "Emp_name": "Rajesh",
       "Age": 30,
       "designation": "Recruiter",
@@ -29,7 +28,7 @@
       "salary": 40000
     },
     {
-      "Emp_id": 192,
+      "id": 4,
       "Emp_name": "Neha",
       "Age": 28,
       "designation": "Sales Manager",
@@ -38,7 +37,7 @@
       "salary": 42000
     },
     {
-      "Emp_id": 193,
+      "id": 5,
       "Emp_name": "Vishal",
       "Age": 29,
       "designation": "Content Writer",
@@ -47,7 +46,7 @@
       "salary": 37000
     },
     {
-      "Emp_id": 194,
+      "id": 6,
       "Emp_name": "Sanjay",
       "Age": 31,
       "designation": "Accountant",
@@ -56,7 +55,7 @@
       "salary": 36000
     },
     {
-      "Emp_id": 195,
+      "id": 7,
       "Emp_name": "Meena",
       "Age": 27,
       "designation": "Database Administrator",
@@ -65,7 +64,7 @@
       "salary": 28000
     },
     {
-      "Emp_id": 196,
+      "id": 8,
       "Emp_name": "Kiran",
       "Age": 32,
       "designation": "Electrical Engineer",
@@ -74,7 +73,7 @@
       "salary": 53000
     },
     {
-      "Emp_id": 197,
+      "id": 9,
       "Emp_name": "Kavita",
       "Age": 29,
       "designation": "Software Engineer",
@@ -83,7 +82,7 @@
       "salary": 42000
     },
     {
-      "Emp_id": 198,
+      "id": 10,
       "Emp_name": "Rakesh",
       "Age": 30,
       "designation": "Training Manager",
@@ -92,7 +91,7 @@
       "salary": 48000
     },
     {
-      "Emp_id": 199,
+      "id": 11,
       "Emp_name": "Pooja",
       "Age": 26,
       "designation": "Marketing Executive",
@@ -101,7 +100,7 @@
       "salary": 30000
     },
     {
-      "Emp_id": 200,
+      "id": 12,
       "Emp_name": "Aryan",
       "Age": 28,
       "designation": "Social Media Manager",
@@ -110,7 +109,7 @@
       "salary": 40000
     },
     {
-      "Emp_id": 201,
+      "id": 13,
       "Emp_name": "Manish",
       "Age": 29,
       "designation": "Financial Controller",
@@ -119,7 +118,7 @@
       "salary": 45000
     },
     {
-      "Emp_id": 202,
+      "id": 14,
       "Emp_name": "Shreya",
       "Age": 27,
       "designation": "System Administrator",
@@ -128,7 +127,7 @@
       "salary": 32000
     },
     {
-      "Emp_id": 203,
+      "id": 15,
       "Emp_name": "Harish",
       "Age": 34,
       "designation": "Civil Engineer",
@@ -137,7 +136,7 @@
       "salary": 55000
     },
     {
-      "Emp_id": 204,
+      "id": 16,
       "Emp_name": "Anjali",
       "Age": 26,
       "designation": "UI/UX Designer",
@@ -146,7 +145,7 @@
       "salary": 30000
     },
     {
-      "Emp_id": 205,
+      "id": 17,
       "Emp_name": "Rahul",
       "Age": 30,
       "designation": "Compensation Analyst",
@@ -155,7 +154,7 @@
       "salary": 48000
     },
     {
-      "Emp_id": 206,
+      "id": 18,
       "Emp_name": "Nisha",
       "Age": 28,
       "designation": "Sales Executive",
@@ -164,7 +163,7 @@
       "salary": 32000
     },
     {
-      "Emp_id": 207,
+      "id": 19,
       "Emp_name": "Amit",
       "Age": 29,
       "designation": "SEO Specialist",
@@ -173,7 +172,7 @@
       "salary": 41000
     },
     {
-      "Emp_id": 208,
+      "id": 20,
       "Emp_name": "Sandeep",
       "Age": 31,
       "designation": "Tax Analyst",
@@ -182,7 +181,7 @@
       "salary": 39000
     },
     {
-      "Emp_id": 209,
+      "id": 21,
       "Emp_name": "Shikha",
       "Age": 27,
       "designation": "Database Administrator",
@@ -191,7 +190,7 @@
       "salary": 28000
     },
     {
-      "Emp_id": 210,
+      "id": 22,
       "Emp_name": "Amit",
       "Age": 32,
       "designation": "Software Engineer",
@@ -200,7 +199,7 @@
       "salary": 49000
     },
     {
-      "Emp_id": 211,
+      "id": 23,
       "Emp_name": "Riya",
       "Age": 29,
       "designation": "Backend Developer",
@@ -209,7 +208,7 @@
       "salary": 43000
     },
     {
-      "Emp_id": 212,
+      "id": 24,
       "Emp_name": "Vivek",
       "Age": 30,
       "designation": "HR Coordinator",
@@ -218,7 +217,7 @@
       "salary": 47000
     },
     {
-      "Emp_id": 213,
+      "id": 25,
       "Emp_name": "Divya",
       "Age": 26,
       "designation": "Business Development Manager",
@@ -227,7 +226,7 @@
       "salary": 34000
     },
     {
-      "Emp_id": 214,
+      "id": 26,
       "Emp_name": "Varun",
       "Age": 28,
       "designation": "Digital Marketing Manager",
@@ -236,7 +235,7 @@
       "salary": 42000
     },
     {
-      "Emp_id": 215,
+      "id": 27,
       "Emp_name": "Alisha",
       "Age": 29,
       "designation": "Accounts Payable Specialist",
@@ -245,7 +244,7 @@
       "salary": 41000
     },
     {
-      "Emp_id": 216,
+      "id": 28,
       "Emp_name": "Raj",
       "Age": 27,
       "designation": "System Administrator",
@@ -254,15 +253,16 @@
       "salary": 33000
     },
     {
-      "Emp_id": 217,
+      "id": 29,
       "Emp_name": "Ishaan",
       "Age": 34,
       "designation": "Electrical Engineer",
       "Date of Joining": "19/03/2015",
       "Overall experience": 12,
       "salary": 55000
-    },  {
-      "Emp_id": 1,
+    },
+    {
+      "id": 30,
       "Emp_name": "Kholi",
       "Age": 34,
       "designation": "CEO",
