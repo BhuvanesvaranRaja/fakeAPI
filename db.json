@@ -1,274 +1,123 @@
 {
+  "totalItems": 29,
+  "perPage": 10,
+  "currentPage": 1,
   "data": [
     {
       "id": 1,
-      "Emp_name": "Raju",
-      "Age": 28,
-      "designation": "Software Engineer",
-      "Date of Joining": "1/01/2021",
-      "Overall experience": 3,
-      "salary": 23000
+      "name": "Item 1"
     },
     {
       "id": 2,
-      "Emp_name": "Priya",
-      "Age": 31,
-      "designation": "HR Manager",
-      "Date of Joining": "5/12/2018",
-      "Overall experience": 9,
-      "salary": 50000
+      "name": "Item 2"
     },
     {
       "id": 3,
-      "Emp_name": "Rajesh",
-      "Age": 30,
-      "designation": "Recruiter",
-      "Date of Joining": "7/08/2018",
-      "Overall experience": 6,
-      "salary": 40000
+      "name": "Item 3"
     },
     {
       "id": 4,
-      "Emp_name": "Neha",
-      "Age": 28,
-      "designation": "Sales Manager",
-      "Date of Joining": "20/02/2019",
-      "Overall experience": 5,
-      "salary": 42000
+      "name": "Item 4"
     },
     {
       "id": 5,
-      "Emp_name": "Vishal",
-      "Age": 29,
-      "designation": "Content Writer",
-      "Date of Joining": "18/06/2017",
-      "Overall experience": 8,
-      "salary": 37000
+      "name": "Item 5"
     },
     {
       "id": 6,
-      "Emp_name": "Sanjay",
-      "Age": 31,
-      "designation": "Accountant",
-      "Date of Joining": "6/11/2018",
-      "Overall experience": 7,
-      "salary": 36000
+      "name": "Item 6"
     },
     {
       "id": 7,
-      "Emp_name": "Meena",
-      "Age": 27,
-      "designation": "Database Administrator",
-      "Date of Joining": "11/10/2021",
-      "Overall experience": 3,
-      "salary": 28000
+      "name": "Item 7"
     },
     {
       "id": 8,
-      "Emp_name": "Kiran",
-      "Age": 32,
-      "designation": "Electrical Engineer",
-      "Date of Joining": "2/05/2016",
-      "Overall experience": 11,
-      "salary": 53000
+      "name": "Item 8"
     },
     {
       "id": 9,
-      "Emp_name": "Kavita",
-      "Age": 29,
-      "designation": "Software Engineer",
-      "Date of Joining": "14/08/2019",
-      "Overall experience": 6,
-      "salary": 42000
+      "name": "Item 9"
     },
     {
       "id": 10,
-      "Emp_name": "Rakesh",
-      "Age": 30,
-      "designation": "Training Manager",
-      "Date of Joining": "10/03/2018",
-      "Overall experience": 8,
-      "salary": 48000
+      "name": "Item 10"
     },
     {
       "id": 11,
-      "Emp_name": "Pooja",
-      "Age": 26,
-      "designation": "Marketing Executive",
-      "Date of Joining": "9/05/2020",
-      "Overall experience": 3,
-      "salary": 30000
+      "name": "Item 11"
     },
     {
       "id": 12,
-      "Emp_name": "Aryan",
-      "Age": 28,
-      "designation": "Social Media Manager",
-      "Date of Joining": "22/12/2017",
-      "Overall experience": 6,
-      "salary": 40000
+      "name": "Item 12"
     },
     {
       "id": 13,
-      "Emp_name": "Manish",
-      "Age": 29,
-      "designation": "Financial Controller",
-      "Date of Joining": "5/09/2018",
-      "Overall experience": 7,
-      "salary": 45000
+      "name": "Item 13"
     },
     {
       "id": 14,
-      "Emp_name": "Shreya",
-      "Age": 27,
-      "designation": "System Administrator",
-      "Date of Joining": "12/06/2020",
-      "Overall experience": 4,
-      "salary": 32000
+      "name": "Item 14"
     },
     {
       "id": 15,
-      "Emp_name": "Harish",
-      "Age": 34,
-      "designation": "Civil Engineer",
-      "Date of Joining": "19/03/2015",
-      "Overall experience": 12,
-      "salary": 55000
+      "name": "Item 15"
     },
     {
       "id": 16,
-      "Emp_name": "Anjali",
-      "Age": 26,
-      "designation": "UI/UX Designer",
-      "Date of Joining": "18/09/2021",
-      "Overall experience": 3,
-      "salary": 30000
+      "name": "Item 16"
     },
     {
       "id": 17,
-      "Emp_name": "Rahul",
-      "Age": 30,
-      "designation": "Compensation Analyst",
-      "Date of Joining": "17/02/2018",
-      "Overall experience": 8,
-      "salary": 48000
+      "name": "Item 17"
     },
     {
       "id": 18,
-      "Emp_name": "Nisha",
-      "Age": 28,
-      "designation": "Sales Executive",
-      "Date of Joining": "11/04/2019",
-      "Overall experience": 4,
-      "salary": 32000
+      "name": "Item 18"
     },
     {
       "id": 19,
-      "Emp_name": "Amit",
-      "Age": 29,
-      "designation": "SEO Specialist",
-      "Date of Joining": "26/08/2017",
-      "Overall experience": 6,
-      "salary": 41000
+      "name": "Item 19"
     },
     {
       "id": 20,
-      "Emp_name": "Sandeep",
-      "Age": 31,
-      "designation": "Tax Analyst",
-      "Date of Joining": "20/11/2018",
-      "Overall experience": 7,
-      "salary": 39000
+      "name": "Item 20"
     },
     {
       "id": 21,
-      "Emp_name": "Shikha",
-      "Age": 27,
-      "designation": "Database Administrator",
-      "Date of Joining": "15/10/2021",
-      "Overall experience": 3,
-      "salary": 28000
+      "name": "Item 21"
     },
     {
       "id": 22,
-      "Emp_name": "Amit",
-      "Age": 32,
-      "designation": "Software Engineer",
-      "Date of Joining": "28/05/2016",
-      "Overall experience": 10,
-      "salary": 49000
+      "name": "Item 22"
     },
     {
       "id": 23,
-      "Emp_name": "Riya",
-      "Age": 29,
-      "designation": "Backend Developer",
-      "Date of Joining": "22/08/2019",
-      "Overall experience": 6,
-      "salary": 43000
+      "name": "Item 23"
     },
     {
       "id": 24,
-      "Emp_name": "Vivek",
-      "Age": 30,
-      "designation": "HR Coordinator",
-      "Date of Joining": "20/02/2018",
-      "Overall experience": 8,
-      "salary": 47000
+      "name": "Item 24"
     },
     {
       "id": 25,
-      "Emp_name": "Divya",
-      "Age": 26,
-      "designation": "Business Development Manager",
-      "Date of Joining": "9/05/2020",
-      "Overall experience": 4,
-      "salary": 34000
+      "name": "Item 25"
     },
     {
       "id": 26,
-      "Emp_name": "Varun",
-      "Age": 28,
-      "designation": "Digital Marketing Manager",
-      "Date of Joining": "21/12/2017",
-      "Overall experience": 6,
-      "salary": 42000
+      "name": "Item 26"
     },
     {
       "id": 27,
-      "Emp_name": "Alisha",
-      "Age": 29,
-      "designation": "Accounts Payable Specialist",
-      "Date of Joining": "25/09/2018",
-      "Overall experience": 7,
-      "salary": 41000
+      "name": "Item 27"
     },
     {
       "id": 28,
-      "Emp_name": "Raj",
-      "Age": 27,
-      "designation": "System Administrator",
-      "Date of Joining": "11/06/2020",
-      "Overall experience": 4,
-      "salary": 33000
+      "name": "Item 28"
     },
     {
       "id": 29,
-      "Emp_name": "Ishaan",
-      "Age": 34,
-      "designation": "Electrical Engineer",
-      "Date of Joining": "19/03/2015",
-      "Overall experience": 12,
-      "salary": 55000
-    },
-    {
-      "id": 30,
-      "Emp_name": "Kholi",
-      "Age": 34,
-      "designation": "CEO",
-      "Date of Joining": "01/03/2010",
-      "Overall experience": 25,
-      "salary": 155500
+      "name": "Item 29"
     }
   ]
 }
